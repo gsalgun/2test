@@ -1,0 +1,9 @@
+hello this is my test
+
+and i am editing on github
+
+<<<<<<< Updated upstream
+github edit
+=======
+local edit
+>>>>>>> Stashed changes
